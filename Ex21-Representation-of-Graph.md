@@ -20,8 +20,8 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 ```
 /*
 Program to display the adjacency matrix of the given graph
-Developed by: V.YOGESH
-RegisterNumber:212223230250
+Developed by: VIDHIYA LAKSHMI S
+RegisterNumber:212223230238
 */
 
 #include<stdio.h> 
